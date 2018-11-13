@@ -7,6 +7,7 @@ page_sections:
   block: header-1
   navigation:
   - link_text: Awomf
+    link: "/"
   - link_text: Awoo
   logo: "/uploads/2018/11/13/18926_5ae5.jpeg"
 - template: hero-banner-w-image
