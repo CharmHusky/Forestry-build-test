@@ -3,6 +3,11 @@ title: About
 layout: blocks
 date: 2018-11-13 01:42
 page_sections:
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link_text: Awomf
+  - link_text: Awoo
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
