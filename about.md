@@ -3,6 +3,8 @@ title: About
 layout: blocks
 date: 2018-11-13 01:42
 page_sections:
+- template: simple-header
+  block: header-3
 - template: 1-column-text
   block: one-column-1
   headline: About Me!
@@ -11,8 +13,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Blah Blah Blah information about something or other!
-- template: simple-header
-  block: header-3
 published: false
 
 ---
