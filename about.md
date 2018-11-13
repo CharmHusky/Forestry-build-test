@@ -23,6 +23,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Blah Blah Blah information about something or other!
+menu:
+  main:
+    weight: 2
 published: false
 
 ---
