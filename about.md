@@ -10,6 +10,7 @@ page_sections:
     on the keyboard and get glitter all over your CSS! :D
 - template: simple-footer
   block: footer-1
+  content: Blah Blah Blah information about something or other!
 - template: simple-header
   block: header-3
 published: false
