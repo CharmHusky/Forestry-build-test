@@ -8,6 +8,7 @@ page_sections:
   navigation:
   - link_text: Awomf
   - link_text: Awoo
+  logo: "/uploads/2018/11/13/18926_5ae5.jpeg"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
