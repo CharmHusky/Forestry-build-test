@@ -5,6 +5,7 @@ date: 2018-11-13 01:42
 page_sections:
 - template: simple-header
   block: header-3
+  logo: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
 - template: 1-column-text
   block: one-column-1
   headline: About Me!
