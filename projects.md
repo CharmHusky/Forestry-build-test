@@ -21,6 +21,14 @@ page_sections:
   block: media-1
   image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
   caption: Sample Project
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Projects here
+  content: This is the simple detail of what's in here
+  media:
+    image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
+    alt_text: Awormf pew
 - template: simple-footer
   block: footer-1
   content: Something something foot text goes here!
