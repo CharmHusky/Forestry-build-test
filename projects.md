@@ -29,6 +29,11 @@ page_sections:
   media:
     image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
     alt_text: Awormf pew
+- template: detail-content
+  block: text-1
+  headline: WORDS
+  content: "<p>here's some text about how mini husky goes pew with extra pews and
+    demands flavours 1 &amp; 2!</p>"
 - template: simple-footer
   block: footer-1
   content: Something something foot text goes here!
