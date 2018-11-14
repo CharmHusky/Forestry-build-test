@@ -9,6 +9,14 @@ page_sections:
   navigation:
   - link_text: Home
   - link_text: About
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
+    caption: Words
+  image_2:
+    image: "/uploads/2018/11/13/18926_5ae5.jpeg"
+    caption: More Words
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
