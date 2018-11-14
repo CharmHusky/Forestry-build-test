@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/11/13/18926_5ae5.jpeg"
   navigation:
   - link_text: About
-    link: ''
+    link: "/about.html"
   - link: "/"
     link_text: Home
   cta:
