@@ -37,6 +37,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Something something foot text goes here!
-published: false
 
 ---
