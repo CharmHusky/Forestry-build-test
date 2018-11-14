@@ -11,6 +11,8 @@ page_sections:
   - link_text: About
 - template: full-width-media-element
   block: media-1
+  image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
+  caption: Sample Project
 - template: simple-footer
   block: footer-1
   content: Something something foot text goes here!
