@@ -1,0 +1,22 @@
+---
+label: test block
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: testing
+  label: testing
+  description: here you can write some stuff
+- type: textarea
+  name: test_area
+  label: test area
+  description: here you can write even more stuff!
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: color
+  name: pick_a_color
+  config:
+    color_format: RGB
+  label: pick a color
