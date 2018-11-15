@@ -14,6 +14,13 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Projects
+  content: See some of the projects i've made!
+  media:
+    image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
 - template: detail-content
   block: text-1
   headline: Welcome to my Home Page
