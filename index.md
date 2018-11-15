@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/11/13/18926_5ae5.jpeg"
   navigation:
+  - link: "/projects.html"
+    link_text: Projects
   - link: "/blog.html"
     link_text: Blog
   - link_text: About
