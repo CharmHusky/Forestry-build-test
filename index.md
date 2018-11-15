@@ -17,9 +17,6 @@ page_sections:
     link: "/about.html"
   - link: "/secret.html"
     link_text: Secret
-  cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
 - template: detail-content
   block: text-1
   headline: Welcome to my Home Page
