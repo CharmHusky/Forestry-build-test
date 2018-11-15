@@ -7,14 +7,16 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/11/13/18926_5ae5.jpeg"
   navigation:
+  - link: "/"
+    link_text: Home
   - link: "/projects.html"
     link_text: Projects
   - link: "/blog.html"
     link_text: Blog
   - link_text: About
     link: "/about.html"
-  - link: "/"
-    link_text: Home
+  - link: "/secret.html"
+    link_text: Secret
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
