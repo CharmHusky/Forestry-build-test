@@ -33,6 +33,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- blog.md
 - index.md
 - projects.md
 - about.md
