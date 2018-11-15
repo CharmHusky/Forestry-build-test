@@ -19,6 +19,11 @@ page_sections:
   headline: Welcome to my Home Page
   content: "<p>Welcome to my page where i post some blogs and snippets about my coding,
     life, and adventures!</p>"
+- template: 4-column-footer
+  block: footer-2
+  col_2: Twitter
+  col_3: Linkedin
+  col_4: Git
 - template: simple-footer
   block: footer-1
   content: Links and details i guess can go here!
