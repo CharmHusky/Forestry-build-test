@@ -21,7 +21,7 @@ page_sections:
     life, and adventures!</p>"
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Links and details i guess can go here!
 
 ---
 foo bar
