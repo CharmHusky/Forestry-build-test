@@ -14,6 +14,11 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
+- template: detail-content
+  block: text-1
+  headline: Welcome to my Home Page
+  content: "<p>Welcome to my page where i post some blogs and snippets about my coding,
+    life, and adventures!</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -21,11 +26,6 @@ page_sections:
   content: See some of the projects i've made!
   media:
     image: "/uploads/2018/11/13/1389214429.mitti_minicharmzilla_lores.jpg"
-- template: detail-content
-  block: text-1
-  headline: Welcome to my Home Page
-  content: "<p>Welcome to my page where i post some blogs and snippets about my coding,
-    life, and adventures!</p>"
 - template: simple-footer
   block: footer-1
   content: Links and details i guess can go here!
