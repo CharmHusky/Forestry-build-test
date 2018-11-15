@@ -27,6 +27,7 @@ page_sections:
   col_2: Twitter
   col_3: Linkedin
   col_4: Git
+  image: "/uploads/2018/11/13/18926_5ae5.jpeg"
 
 ---
 foo bar
